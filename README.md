@@ -1,4 +1,4 @@
-exercise3
+exercise03
 =========
 
 nasm exercise03
